@@ -40,7 +40,7 @@ export default function Hero() {
               className="mb-4"
             >
               <span className="inline-block px-3 py-1 bg-cyan-500/20 text-cyan-400 rounded-full text-sm font-medium mb-4">
-              Full Stack Developer
+              Alternant en Sécurité Informatique | Dev + Pentest
               </span>
             </motion.div>
             <motion.h1
@@ -57,7 +57,6 @@ export default function Hero() {
               transition={{ delay: 0.6, duration: 0.8 }}
               className="text-xl text-gray-300 mb-8 max-w-lg mx-auto lg:mx-0"
             >
-              Building modern web experiences with a focus on clean code, performance, and user experience.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
