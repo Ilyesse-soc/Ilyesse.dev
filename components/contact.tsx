@@ -41,7 +41,6 @@ export default function Contact() {
             </span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Have a project in mind or want to discuss potential opportunities? Feel free to reach out!
           </p>
         </motion.div>
 
