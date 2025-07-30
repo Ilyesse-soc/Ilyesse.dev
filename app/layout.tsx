@@ -8,8 +8,8 @@ import Navbar from "@/components/navbar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ilyesse El Adaoui | Full Stack Developer",
-  description: "Portfolio of Ilyesse El Adaoui, Full Stack Developer",
+  title: "Ilyesse El Adaoui | Cybersecurity Developer",
+  description: "Portfolio of Ilyesse El Adaoui, Alternant en Sécurité Informatique | Dev + Pentest",
     generator: 'v0.dev'
 }
 
