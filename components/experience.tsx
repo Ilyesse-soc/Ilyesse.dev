@@ -29,11 +29,19 @@ export default function Experience() {
       title: "Stagiaire en Administration Réseau",
       company: "Mairie de Poissy",
       period: "Avril-Mai 2023",
-      description: [
-        "Installation de la double authentification via YubiKey.",
-        "Administration et surveillance du réseau informatique.",
-        "Sécurisation et supervision du Système d'Information (SI).",
-      ],
+     description: [
+  "Installation de la double authentification via YubiKey.",
+  "Administration et surveillance du réseau informatique.",
+  "Sécurisation et supervision du Système d'Information (SI).",
+  "Configuration des équipements réseau (switchs, routeurs, points d'accès).",
+  "Gestion des VLANs, plan d'adressage IP et résolution des conflits réseau.",
+  "Analyse du trafic réseau et détection d'anomalies via Wireshark.",
+  "Mise en place de politiques de sécurité (pare-feu, GPO, droits d'accès).",
+  "Suivi des journaux système (logs) et alertes de sécurité en temps réel.",
+  "Planification et test des sauvegardes/restaurations critiques.",
+  "Optimisation de la disponibilité et des performances du réseau d'entreprise.",
+],
+
       skills: ["Network Admin", "Security", "YubiKey", "2FA"],
     },
     {
