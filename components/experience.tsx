@@ -8,13 +8,20 @@ import { Calendar, Building } from "lucide-react"
 export default function Experience() {
   const experiences = [
     {
-      title: "Alternant Développeur Web",
+      title: "Alternant Développeur",
       company: "Waldenergie",
       period: "Juin 2023",
       description: [
         "Conception et développement d'un site web complet en HTML, CSS, Java et PHP.",
         "Implémentation de fonctionnalités dynamiques avec Java et logique serveur avec PHP.",
         "Optimisation de l'expérience utilisateur pour un site interactif et engageant.",
+        "Gestion des accès, sécurisation des échanges et surveillance réseau basique (ports, requêtes).",
+        "Mise en place de la connectivité réseau entre client et serveur (requêtes HTTP, routage, sessions).",
+        "Tests de connectivité, gestion des erreurs réseau et optimisation des performances de chargement.",
+       
+
+
+
       ],
       skills: ["HTML", "CSS", "Java", "PHP", "UX Design"],
     },
